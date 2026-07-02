@@ -1,19 +1,55 @@
-### Hi there 👋, my name is Shihab
-####  Building Modern Web Experiences
-![ Building Modern Web Experiences](https://i.ibb.co/mCK0sB61/Chat-GPT-Image-Jul-2-2026-09-53-17-AM.png)
+<h1 align="center">👋 Hi, I'm Shihab</h1>
 
-🚀 About Me
-Frontend-focused developer passionate about building modern web applications
-Exploring Blockchain & Web3 (Smart Contracts, DApps)
-I love creating clean, fast, and user-friendly interfaces
-Always learning, improving, and experimenting with new technologies
+<p align="center">
+💻 Web Developer | Blockchain Builder
+</p>
 
-⚡ “I build, break, learn — then build better.”
+---
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+## 🚀 About Me
+- 🔹 Frontend-focused developer, passionate about clean UI & smooth UX  
+- 🔹 Currently exploring **Blockchain & Web3 (Smart Contracts, DApps)**  
+- 🔹 I enjoy building fast, responsive, and user-friendly websites  
+- 🔹 Always learning new technologies and improving my skills  
 
-- 🔭 I’m currently working on this page.a 
+> ⚡ "I build, break, learn — then build better."
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/dad)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/eslgaming.svg' alt='eslgaming' height='40'>](https://camo.githubusercontent.com/cf14255d1d9c59a68dc1b287e8f03810a4fc5da15ed7de4e48b459b51f419ec3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457468657265756d2d3343334333443f7374796c653d666f722d7468652d6261646765266c6f676f3d657468657265756d266c6f676f436f6c6f723d7768697465)  
+## 🛠️ Tech Stack
 
+### 🔗 Blockchain
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity)
+![Web3](https://img.shields.io/badge/Web3-000000?style=for-the-badge)
+
+### 🎨 Frontend
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+
+### 🧠 Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+---
+
+## 📊 GitHub Stats
+
+![Shihab's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🌐 Connect With Me
+
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook)](https://facebook.com/YOUR_LINK)
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github)](https://github.com/YOUR_USERNAME)
+
+---
+
+⭐ From [Shihab](https://github.com/YOUR_USERNAME)
