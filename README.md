@@ -1,16 +1,19 @@
-## Hi there 👋
+### Hi there 👋, my name is Shihab
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator](https://ibb.co/0jLKNXh8)
 
-<!--
-**shihab343/shihab343** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 About Me
+Frontend-focused developer passionate about building modern web applications
+Exploring Blockchain & Web3 (Smart Contracts, DApps)
+I love creating clean, fast, and user-friendly interfaces
+Always learning, improving, and experimenting with new technologies
 
-Here are some ideas to get you started:
+⚡ “I build, break, learn — then build better.”
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
